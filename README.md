@@ -1,5 +1,5 @@
 # Smartwatch-
-A basic functionality smartwatch's design. 
+A basic functionality smartwatch's design. The board is 26mm x 20mm .Yeah I tried to make it small as possible.
 This is a hobby project(Submitted this for Grand challenge contest,did not pass the second last round :(  ),Was not able to check it's functionality as printing the pcb costs some money,and most cases manufacturers does not manufacture only one pcb. 
 
 
